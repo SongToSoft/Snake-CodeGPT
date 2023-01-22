@@ -1,0 +1,7 @@
+#Ignore all files
+*
+#Except main.cpp, CMakeLists.txt, Readme.md
+!.gitignore
+!main.cpp
+!CMakeLists.txt
+!Readme.md
